@@ -11,3 +11,20 @@ html, body {
 	width: 100vw;
 	background-color: black;
 }
+
+main{ 
+	position: relative;
+	height: 100vh;
+	background-color: green;
+}
+
+section#telefone{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 500px;
+	width: 311px;
+	
+	background: blue url(../imagens/frame-iphone.png) no-repeat;
+}
