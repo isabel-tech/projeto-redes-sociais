@@ -54,6 +54,7 @@ section#redes-sociais img:hover{
 }
 
 iframe#tela{
+	border-radius: 2px 2px 2px 2px;
 	position: relative;
 	top: 80px;
 	left: 22px;
