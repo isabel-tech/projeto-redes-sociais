@@ -27,4 +27,6 @@ a{
 
 a:hover{
 	background-color: rgb(223, 4, 4);
+	font-size: 17px;
+	transition: font-size 0.5s;
 }

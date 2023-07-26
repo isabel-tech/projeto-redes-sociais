@@ -24,9 +24,6 @@ main{
 	height: 100vh;
 }
 
-a:hover{
-	font-size: 18px;
-}
 
 section#telefone{
 	position: absolute;
